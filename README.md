@@ -8,11 +8,7 @@
 
 TARS is our attempt towards trying to automate parts of cybersecurity penetration testing using AI agents
 
-## Demos
 
-| [![Video 1 Title](assets/thumbnail_1.png)](https://www.youtube.com/watch?v=HNlvgvFs43g) | [![Video 2 Title](assets/thumbnail_2.png)](https://www.youtube.com/watch?v=Sjw_gkSz6Lw) | [![Video 3 Title](assets/thumbnail_3.png)](https://www.youtube.com/watch?v=JSBVHl7PWek) |
-| :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-|                                         Demo #1                                         |                                     Demo #2 (Short)                                     |                                     Demo #3 (Long)                                      |
 
 ## Long-Term Vision
 
